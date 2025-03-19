@@ -1,1 +1,1 @@
-This repo is full of different test cases for corporate environments
+This repo hosts different threat detection test cases for corporate environments
